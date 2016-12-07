@@ -1,0 +1,31 @@
+.viewed {
+ text-decoration: underline;
+}
+
+.user-profile{
+    width:100%;
+}
+.avatar{
+    float:left;
+}
+.profile{
+    
+}
+
+.tweets{
+    color: dimgray;
+}
+
+.jumbotron {
+    border: 0.1px solid #ccc;
+}
+.container {
+    display: inline-flex;
+    width: device-width;
+}
+.my_message{
+   flex-direction: column;
+}
+.message_container{
+   flex-direction: row;
+}

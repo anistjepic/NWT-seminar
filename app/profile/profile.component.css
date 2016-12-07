@@ -1,0 +1,21 @@
+.user-profile{
+    width:100%;
+}
+.avatar{
+    float:left;
+}
+.profile{
+    font-size: 80%;
+}
+
+.tweets{
+    color: dimgray;
+}
+
+.jumbotron {
+    border: 0.1px solid #ccc;
+}
+.container {
+    display: inline-flex;
+    width: device-width;
+}

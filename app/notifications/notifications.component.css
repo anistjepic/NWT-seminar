@@ -1,0 +1,7 @@
+.jumbotron {
+    border: 1px solid #ccc;
+}
+.container {
+    display: inline-flex;
+    width: device-width;
+}
